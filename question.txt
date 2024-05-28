@@ -1,0 +1,5 @@
+Q: "Why are you interested in taking CMSC320?"
+
+A: I'm taking CMSC320 because I want to go into the field of Machine Learning and Artificial Intelligence.
+I have used many of the tools being taught in this class before, but it is helpful to have a full holisitic review of
+the necessary tools and software before moving towards the ML/AI courses.
